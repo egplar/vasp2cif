@@ -8,10 +8,7 @@ Installation
 
 1. Download or clone the repository.
 2. Install by putting the vasp2cif.py in a folder in your $PATH (such as ~/bin).
-3. Change permissions:
-
-    mv vasp2cif.py vasp2cif
-    chmod u+x vasp2cif
+3. Change permissions: ```mv vasp2cif.py vasp2cif; chmod u+x vasp2cif```.
 
 This should allow you to write e.g. "vasp2cif CONTCAR" in any job folder and get the corresponding CONTCAR.cif file.
 
@@ -33,7 +30,7 @@ Generate CIF file with multiple data blocks from a relaxation run:
 Authors
 -------
 
-* [Peter Larsson](http://www.nsc.liu.se)
+* [Peter Larsson](http://www.nsc.liu.se/~pla/)
 * [Torbjörn Björkman](http://physics.aalto.fi/personnel/?id=538)
 
 License
