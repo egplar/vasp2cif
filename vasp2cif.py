@@ -5,7 +5,8 @@
 #               VASP POSCAR+POTCAR/OUTCAR files.
 #               Output files acquire a .cif extension
 #               example: POSCAR --> POSCAR.cif
-#   Copyright 2008-2010 Peter Larsson
+#
+#   Copyright 2008-2013 Peter Larsson
 #
 #   Licensed under the Apache License, Version 2.0 (the "License");
 #   you may not use this file except in compliance with the License.
